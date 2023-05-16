@@ -17,9 +17,9 @@ Pre-requisites
 Getting Started
 ---------------
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
+1. Download the starter code :heavy_check_mark: 
+2. Open the project in Android Studio :heavy_check_mark: 
+3. Complete the project in accordance with the app requirements :heavy_check_mark: 
 
 Tips
 ----
