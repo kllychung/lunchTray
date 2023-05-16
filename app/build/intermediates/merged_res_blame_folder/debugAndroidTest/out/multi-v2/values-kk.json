@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.lunchtray.test.app-mergeDebugAndroidTestResources-14:/values-kk/values-kk.xml",
+            "map": [
+                {
+                    "source": "/Users/kellychung/.gradle/caches/transforms-3/9dbc9c8b4fbb4cf5b2afdb5396a6d027/transformed/core-1.7.0/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

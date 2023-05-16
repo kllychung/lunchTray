@@ -112,10 +112,11 @@ class OrderFunctionalityTests : BaseTest() {
 
         // Select the salad item
         onView(withId(R.id.bread)).perform(click())
+
         onView(withId(R.id.subtotal))
             .check(matches(withText(containsString("Subtotal: $0.50"))))
 
-        // Select the soup item
+        //Select the soup item
         onView(withId(R.id.berries)).perform(click())
         onView(withId(R.id.subtotal))
             .check(matches(withText(containsString("Subtotal: $1.00"))))
